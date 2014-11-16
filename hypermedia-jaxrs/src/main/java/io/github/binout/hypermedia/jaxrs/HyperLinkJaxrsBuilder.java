@@ -7,11 +7,6 @@ import javax.ws.rs.Path;
 import javax.ws.rs.core.UriInfo;
 import java.net.MalformedURLException;
 
-/**
- * LECTRA
- *
- * @author b.prioux
- */
 public class HyperLinkJaxrsBuilder extends HyperLinkBuilder {
 
     public HyperLinkJaxrsBuilder(String baseUrl) {
